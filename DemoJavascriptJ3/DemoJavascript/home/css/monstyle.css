@@ -1,0 +1,22 @@
+.ligneColoree {
+    color: red;
+}
+
+#content {
+    background-color: aqua;
+    /*display: inline-block;*/
+}
+.trainee {
+
+    position: absolute;
+    display: inline-block;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background-color: darkblue;
+    transition: width 1s ease-out;
+}
+body {
+    width: 100%;
+    height: 100vh;
+}

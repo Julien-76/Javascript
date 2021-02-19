@@ -1,0 +1,62 @@
+#content{
+	background-color: yellow;
+	
+   
+}
+
+.cellule {
+	display : inline-block;
+	vertical-align: top;
+	background-color: grey;
+	border-color: red;
+	border-style: double;
+	border-radius: 10px;
+	border-width: 7px;
+	padding: 70px;
+	margin-top : 50px;
+	margin-right: 20px;
+	width: 100px;
+}
+
+
+.rouge {
+	background-color: red;
+}
+
+.bleu {
+	background-color: blue;
+}
+
+.jaune {
+	background-color: yellow;
+}
+
+.vert {
+	background-color: green;
+}
+
+.mauve {
+	background-color: purple;
+}
+
+.orange {
+	background-color: orange;
+}
+
+.rose {
+	background-color: pink;
+}
+
+.aqua {
+	background-color: aqua;
+}
+
+.timer {
+	font-size: 50px;
+
+}
+
+.button {
+	margin-top: 100px;
+	font-size: 15px;
+}
